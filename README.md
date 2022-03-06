@@ -60,3 +60,5 @@ The dataset can be downloaded here : [Cornell Movie Dialogs Corpus](https://www.
 3. CUDA (if you want to train on a GPU)
 
 *The overall implementation is inspired by [this](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html) post on [pytorch.org](https://pytorch.org/)*
+
+I was trying to learning Python Chatbot so i got a lot of help from this python repostory make sure to check out the owner :)
