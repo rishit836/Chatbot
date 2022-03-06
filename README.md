@@ -1,4 +1,4 @@
-##I was trying to learning Python Chatbot so i got a lot of help from this python repostory make sure to check out the owner :)##
+#I was trying to learning Python Chatbot so i got a lot of help from this python repostory make sure to check out the owner :)
 # Chatbot
 
 
