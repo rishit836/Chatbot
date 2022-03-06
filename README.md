@@ -1,4 +1,7 @@
+##I was trying to learning Python Chatbot so i got a lot of help from this python repostory make sure to check out the owner :)##
 # Chatbot
+
+
 Chatbot implementation using Cornell Movie Dialogs Dataset in PyTorch.The bot can converse with the user and can answer the questions asked though it doesn't pass the [Turing Test](https://en.wikipedia.org/wiki/Turing_test).
 
 It is bulit using Sequence to Sequence architecture with Attention Mechanism.
@@ -61,4 +64,4 @@ The dataset can be downloaded here : [Cornell Movie Dialogs Corpus](https://www.
 
 *The overall implementation is inspired by [this](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html) post on [pytorch.org](https://pytorch.org/)*
 
-I was trying to learning Python Chatbot so i got a lot of help from this python repostory make sure to check out the owner :)
+
